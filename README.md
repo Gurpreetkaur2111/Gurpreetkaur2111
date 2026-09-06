@@ -57,8 +57,12 @@ A RAG-based multi-PDF question-answering system enabling natural language queryi
 
 ### 📊 GitHub Stats
 
-![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurpreetkaur2111&show_icons=true&theme=default&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurpreetkaur2111&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreetkaur2111&layout=compact&hide_border=true)
+### 🧩 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/GurpreetKaur21/)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gurpreet_kaur__21)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gurpka5axy/)
+
+
