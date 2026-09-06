@@ -45,6 +45,14 @@
 
 A full-stack medication tracking platform built with MERN stack, developed collaboratively with a teammate. Enables users to track doses within a 30-minute window, with automatic missed-dose detection, secure authentication, and schedule-based reminders.
 
+### 📊 GitHub Stats
+
+![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurpreetkaur2111&show_icons=true&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurpreetkaur2111&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreetkaur2111&layout=compact&hide_border=true)
+
 **Tech:** MongoDB · Express.js · React · Node.js
 
 ---
